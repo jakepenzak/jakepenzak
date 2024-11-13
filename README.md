@@ -47,5 +47,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="ubuntu" alt="ubuntu" width="100" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original-wordmark.svg" title="portainer" alt="portainer" width="100" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="100" height="75"/>&nbsp;
-
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/databricks.svg" title="databricks" alt="databricks" width="100" height="75" />&nbsp;
 </div>
