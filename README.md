@@ -32,33 +32,59 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jakepenzak&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jakepenzak&redirect=true)
 
 <div align="center">
-  <h2>🛠️ An Incomplete List of Languages and Tools</h2>
+  <h2>🛠️ Tools </h2>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="100" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="100" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="100" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/stata/stata-original-wordmark.svg" title="stata" alt="stata" width="100" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="100" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original-wordmark.svg" title="Cloudflare" alt="Cloudflare" width="100" height="75"/>&nbsp;
-  <br>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="Digital Ocean" alt="Digital Ocean" width="100" height="75"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" title="databricks" alt="databricks" width="100" height="75" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark" alt="Apache Spark" width="100" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="100" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="100" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="100" height="75"/>&nbsp;
-  <br>
-  
-  <img src="https://raw.githubusercontent.com/marimo-team/marimo/main/docs/_static/marimo-logotype-thick.svg" title="Marimo" alt="Marimo" width="100" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="100" height="75"/>&nbsp;
-  <img src="https://github.com/quarto-dev/quarto-web/blob/main/quarto-icon.svg" title="Qaurto" alt="Quarto" width="100" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="100" height="75"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/reflex-dev/reflex/main/docs/images/reflex_dark.svg#gh-light-mode-only" title="Reflex" alt="Reflex" width="100" height="75" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="100" height="75"/>&nbsp;
-  <br>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="100" height="75"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="NeoVim" alt="NeoVim" width="100" height="75" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="100" height="75"/>&nbsp;
-</div>
+  I code primarily in Python 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
+       title="Python" alt="Python" width="20" height="20" 
+       style="vertical-align: middle;" />
+  and Rust
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" 
+       title="Rust" alt="Rust" width="20" height="20" 
+       style="vertical-align: middle;" />
+       
+  Use debian-based Linux OS
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
+      title="Linux" alt="Linux" width="20" height="20"
+       style="vertical-align: middle;" />
+  and Mac OS
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" 
+       title="Mac" alt="Mac" width="20" height="20"
+       style="vertical-align: middle;" />
+
+  Develop in Neovim
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" 
+       title="Neovim" alt="Neovim" width="15" height="15" 
+       style="vertical-align: middle;" />
+  and Zed
+  <img src="https://zed.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_icon.d67dc948.webp&w=64&q=100" 
+       title="Zed" alt="Zed" width="15" height="15" 
+       style="vertical-align: middle;" />
+
+  Leverage Apache Spark for big data processing
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" 
+       title="Apache Spark" alt="Apache Spark" width="15" height="15" 
+       style="vertical-align: middle;" />
+       
+  Use Azure 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" 
+       title="Azure" alt="Azure" width="15" height="15"
+       style="vertical-align: middle;" />
+  , Databricks
+  <img src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" 
+    title="databricks" alt="databricks" width="15" height="15"
+    style="vertical-align: middle;" />
+  , & Digital Ocean for cloud ecosystems
+  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" 
+     title="Digital Ocean" alt="Digital Ocean" width="15" height="15"
+     style="vertical-align: middle;" />
+
+  Leverage docker for containerization & microservices
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" 
+     title="Docker" alt="Docker" width="20" height="20"
+     style="vertical-align: middle;" />
+
+  Develop websites & web apps in reflex
+  <img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" 
+     title="Reflex" alt="Reflex" width="20" height="20"
+     style="vertical-align: middle;" /> 
