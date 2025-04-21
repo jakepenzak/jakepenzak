@@ -24,7 +24,7 @@
 
 <div align="center">
     <h2>:penguin: About Me</h2>
-    <p>I'm a Senior Data Scientist at based in Cincinnati, OH. In the professional sphere, I am dedicated to developing scalable & production-grade econometric, causal inference, and machine learning solutions for measurement & personalized targeting within the retail marketing industry, with expertise in both experimental and quasi-experimental settings. Outside of work, I like developing python packages 🐍, exploring self-hosting & home networking + infrastructure design  🖥️, sharing knowledge through blog bosts ✍️, spending time outdoors hiking and camping ⛺, playing the guitar 🎸, and immersing myself in music—especially jam bands & improvisational jazz 🎼 </p>
+    <p>I'm a Senior Data Scientist based in Cincinnati, OH. In the professional sphere, I am dedicated to developing scalable & production-grade econometric, causal inference, and machine learning solutions for measurement & personalized targeting within the retail marketing industry, with expertise in both experimental and quasi-experimental settings. Outside of work, I like developing python packages 🐍, exploring self-hosting & home networking + infrastructure design  🖥️, sharing knowledge through blog bosts ✍️, spending time outdoors hiking and camping ⛺, playing the guitar 🎸, and immersing myself in music—especially jam bands & improvisational jazz 🎼 </p>
 </div>
 
 **What am I ~listening to right now on Spotify?**
