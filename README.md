@@ -79,12 +79,12 @@
      title="Digital Ocean" alt="Digital Ocean" width="15" height="15"
      style="vertical-align: middle;" />
 
-  Leverage docker for containerization & microservices
+  Employ docker for containerization & microservices
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" 
      title="Docker" alt="Docker" width="20" height="20"
      style="vertical-align: middle;" />
 
-  Develop websites & web apps in reflex
+  Build websites & web apps in reflex
   <img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" 
      title="Reflex" alt="Reflex" width="20" height="20"
      style="vertical-align: middle;" /> 
