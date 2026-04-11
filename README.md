@@ -74,10 +74,10 @@
   <img src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" 
     title="databricks" alt="databricks" width="15" height="15"
     style="vertical-align: middle;" />
-  , & Digital Ocean for cloud ecosystems
+  , & Digital Ocean
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" 
      title="Digital Ocean" alt="Digital Ocean" width="15" height="15"
-     style="vertical-align: middle;" />
+     style="vertical-align: middle;" /> for cloud ecosystems
 
   Employ docker for containerization & microservices
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" 
