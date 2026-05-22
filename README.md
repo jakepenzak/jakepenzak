@@ -57,7 +57,7 @@
        title="Neovim" alt="Neovim" width="15" height="15" 
        style="vertical-align: middle;" />
   and Zed
-  <img src="https://zed.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_icon.d67dc948.webp&w=64&q=100" 
+  <img src="https://raw.githubusercontent.com/zed-industries/zed/d5cf9a65d293eb1680ab46ec98cb2908f53c12f0/assets/images/zed_logo.svg" 
        title="Zed" alt="Zed" width="15" height="15" 
        style="vertical-align: middle;" />
 
