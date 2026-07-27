@@ -29,7 +29,7 @@
 
 **What am I listening to right now on Spotify?**
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jakepenzak&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jakepenzak&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jakepenzak&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jakepenzak&redirect=true)
 
 <div align="center">
   <h2>🛠️ Tools </h2>
