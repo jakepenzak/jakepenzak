@@ -88,3 +88,14 @@
   <img src="https://avatars.githubusercontent.com/u/104714959?s=200&v=4" 
      title="Reflex" alt="Reflex" width="20" height="20"
      style="vertical-align: middle;" /> 
+     
+<div align="center">
+  <h2>🎼 Song of the Week </h2>
+  
+<a href="https://weekly-picks.jacob-pieniazek.com">
+  <img
+    src="https://weekly-picks.jacob-pieniazek.com/github-card.svg?v=20260731-card2"
+    alt="Jacob's Weekly Picks"
+    width="500"
+  >
+</a>
